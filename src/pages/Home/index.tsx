@@ -20,7 +20,7 @@ const Home = () => {
         type="right"
         title={IntroContent.title}
         content={IntroContent.text}
-        icon="partybox5.jpg"
+        icon="partybox3.jpg"
         id="intro"
       />
       <MiddleBlock
